@@ -1,2 +1,2 @@
 # Tacos_Homepage
-A simple pure HTML web page
+A simple pure web page using only HTML.
